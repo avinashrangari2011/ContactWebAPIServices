@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ServiceDBModel1StoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="SGS_CODE1">
+      <EntityTypeMapping TypeName="ServiceDBModel1.SGS_CODE">
+        <MappingFragment StoreEntitySet="SGS_Code">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Code_ID" ColumnName="Code_ID" />
+          <ScalarProperty Name="Code_Value" ColumnName="Code_Value" />
+          <ScalarProperty Name="Code_Desc" ColumnName="Code_Desc" />
+          <ScalarProperty Name="Meta_Data" ColumnName="Meta_Data" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

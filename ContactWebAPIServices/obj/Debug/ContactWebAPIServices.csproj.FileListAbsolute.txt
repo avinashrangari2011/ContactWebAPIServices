@@ -1,0 +1,15 @@
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\ContactWebAPIServices.dll
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\ContactWebAPIServices.pdb
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\EntityFramework.dll
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\Newtonsoft.Json.dll
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\System.Net.Http.Formatting.dll
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\System.Web.Http.dll
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\System.Web.Http.WebHost.dll
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\EntityFramework.xml
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\Newtonsoft.Json.xml
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\System.Net.Http.Formatting.xml
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\System.Web.Http.xml
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\bin\System.Web.Http.WebHost.xml
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\obj\Debug\ContactWebAPIServices.dll
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\obj\Debug\ContactWebAPIServices.pdb
+G:\Evolent\ContactWebAPIServices\ContactWebAPIServices\obj\Debug\ContactWebAPIServices.csprojResolveAssemblyReference.cache

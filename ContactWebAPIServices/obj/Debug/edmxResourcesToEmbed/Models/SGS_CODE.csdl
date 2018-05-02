@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ServiceDBModel1" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Entities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="SGS_CODE1" EntityType="ServiceDBModel1.SGS_CODE" />
+  </EntityContainer>
+  <EntityType Name="SGS_CODE">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Code_ID" Type="Int32" Nullable="false" />
+    <Property Name="Code_Value" Type="String" MaxLength="6" Unicode="true" FixedLength="false" />
+    <Property Name="Code_Desc" Type="String" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="Meta_Data" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+  </EntityType>
+</Schema>
